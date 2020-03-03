@@ -1,0 +1,2 @@
+This is classifier based on resnet34 architecture. It takes in an image of a guitar and classifies into one out of acoustic, electric,
+archtop, resonator and double-neck guitar.
